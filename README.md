@@ -1,12 +1,12 @@
-# Filter-Down 
-## Select Search and Display Shoe Products According to Multiple Filters
+# Pagination App
+## This application renders a full working pagination group of links, below the products table
 This is just a personal experimental project, I've done with plain vanilla JavaScript - No JQuery
 ___
 
 ## How to Use it
  * Just clone the repository  to your local environment 
       ```bash
-      git clone https://github.com/gdmichelis/filter-down.git 
+      git clone https://github.com/gdmichelis/pagination-app.git 
       ````
  * Open index.html to view the project
 
